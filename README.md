@@ -1,4 +1,3 @@
-# Bug-Bounty-Hunting
 # Bug Bounty Hunting
 
 Welcome to my Bug Bounty Hunting repository! This repository showcases my bug bounty hunting experiences and findings for various websites. 
